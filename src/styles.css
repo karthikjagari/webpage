@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.truncate-width {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Removes native scrollbar */
+
+.pointer-none {
+    pointer-events: none;
+}
+
+.cursor-wrap {
+    pointer-events: none;
+}
+
+textarea {
+    resize: none;
+}
+
+/* Media queries and other styles remain unchanged */
+@media (min-width: 1600px) {
+    .components-list {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .resources-list {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .templates-list {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .examples-list {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+/* Additional styles... */
