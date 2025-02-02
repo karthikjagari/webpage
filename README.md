@@ -15,7 +15,7 @@ Download and install Node.js (includes npm) from nodejs.org.
 
 Check out the project demo on YouTube:
 
-[![Project Demo]( https://youtu.be/sP-O-YUX1R8   )
+[![Project Demo](https://youtu.be/sP-O-YUX1R8 )
 
 ## Features
 
