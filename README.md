@@ -13,6 +13,9 @@ Download and install Node.js (includes npm) from nodejs.org.
 ## 3.vscode
 ## 4.web browser
 
+Check out the project demo on YouTube:
+
+[![Project Demo]( https://youtu.be/sP-O-YUX1R8   )
 
 ## Features
 
