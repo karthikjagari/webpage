@@ -9,9 +9,9 @@ Before you begin, ensure you have the following installed on your system:
 
 **1.Node.js:**
 Download and install Node.js (includes npm) from nodejs.org.
-2.git
-3.vscode
-4.web browser
+**2.git**
+**3.vscode**
+**4.web browser**
 
 
 ## Features
